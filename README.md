@@ -1,8 +1,7 @@
 # Fundamentals of Data Science Source Code
 Public Repository for Source Codes for Data Science Final Project
 
-# Title:
-The Impact of Short-Form Video Exposure on Attention Span and Academic Outcomes among Indonesian Students
+# Title: The Impact of Short-Form Video Exposure on Attention Span and Academic Outcomes among Indonesian Students
 
 # Contacts:
 Irene Angelina (irene.angelina@binus.ac.id)  
