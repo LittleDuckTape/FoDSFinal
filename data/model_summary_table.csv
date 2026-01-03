@@ -1,0 +1,6 @@
+Model,R_squared
+Exposure → Attention,0.4662443166425576
+Exposure → Academic,0.31581048807112955
+Attention → Academic,0.2336966603543893
+Mediation (no controls),0.334432237722324
+Mediation (with controls),0.33685891333193907
