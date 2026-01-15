@@ -1,7 +1,7 @@
 # Fundamentals of Data Science x Basic Statistics Source Code
 Public Repository for Fundamentals of Data Science (COMP6784001) x Basic Statistics (STAT6171001) Final Project
 
-# Title: The Impact of Short-Form Video Exposure and Academic Functioning among Indonesian Students\
+# Title: The Impact of Short-Form Video Exposure and Academic Functioning among Indonesian Students
 Link to the dataset used: https://bit.ly/4qwkyjd
 
 # Abstract:
